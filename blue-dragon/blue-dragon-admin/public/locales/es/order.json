@@ -1,0 +1,17 @@
+{
+    "order":"Pedido",
+    "client":"Cliente",
+    "provider":"Proveedor",
+    "price":"Precio",
+    "status":"Estado",
+    "date":"Fecha",
+    "priceless":"Sin precio",
+    "waiting-confirmation":"Esperando confirmación",
+    "waiting-for payment":"Esperando pago",
+    "waiting-shipping":"Esperando envío",
+    "send":"Envíado",
+    "finalized":"Finalizado",
+    "orders":"Pedidos",
+    "back-to-order-list":"Volver a listado de pedidos",
+    "charging...":"Cargando..."
+}

@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @import url(./fonts.css);
+}
+
+body {
+  font-family: Myriad Pro, sans-serif;
+}
+
+@layer components {
+  .btn-primary {
+    @apply flex flex-col justify-center items-center text-small md:text-normal py-1 px-5 md:py-2 md:px-9 bg-redOmega text-white font-semibold rounded-full shadow-md hover:bg-redOmega2 focus:outline-none focus:ring-2 focus:ring-redOmega3 focus:ring-opacity-100 focus:ring-offset-1 transition-colors cursor-pointer;
+  }
+
+  .btn-secondary {
+    @apply flex flex-col justify-center items-center text-small md:text-normal py-1 px-5 md:py-2 md:px-9 border border-inherit border-greyOmega text-greyOmega rounded-full hover:bg-redOmega hover:text-white hover:border-0;
+  }
+  .shadowCard {
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+  }
+}
+
+.box-time-line {
+  margin-left: auto;
+  margin-right: auto;
+  position: absolute;
+  right: 0%;
+
+  @media screen and (min-width: 320px) {
+    right: 4%;
+  }
+
+  @media screen and (min-width: 375px) {
+    right: 10%;
+  }
+
+  @media screen and (min-width: 425px) {
+    right: 13%;
+  }
+
+  @media screen and (min-width: 500px) {
+    right: 25%;
+  }
+}

@@ -1,0 +1,146 @@
+### POST LUGARES
+POST http://localhost:4000/lugares
+content-type: application/json
+
+{
+    "nombre":"ultima",
+    "nit":"54",
+    "correo":"daniasdad@hotmail.es",
+    "telefono":"5625645",
+    "descripcion":"asdasd",
+    "descripcionInterpretada":"asdasdasd",
+    "latitud":"5465",
+    "longitud":"562340",
+    "departamento":3,
+    "video":"213",
+    "categoria":23,
+    "accesibilidades":[1,2],
+    "medias":[]
+}
+
+### POST LUGARES
+POST http://localhost:4000/lugares
+content-type: application/json
+
+{
+    "nombre":"daniel",
+    "nit":"asdadsad",
+    "correo":"casdasda@asd.com",
+    "telefono":"asdads",
+    "descripcion":"asdasd",
+    "descripcionInterpretada":"asdasdasd",
+    "departamento":3,
+    "latitud":"aa",
+    "video":"asd",
+    "categoria":23,
+    "accesibilidades":[1,2],
+    "medias":[],
+    "longitud":"asd"
+}
+### GET LUGARES
+GET http://localhost:4000/lugares/149
+
+### POST NEGOCIO
+POST http://localhost:4000/lugares/comentario
+content-type: application/json
+
+{
+    "calificacion":3,
+    "texto":"buen servicio",
+    "textoInt":"buen servicio",
+    "id_lugar":1,
+    "usuario":1
+}
+
+### GET LUGARES
+GET http://localhost:4000/lugares/accesibilidades
+
+
+
+### PATCH LUGARES
+PATCH   http://localhost:4000/lugares/136
+content-type: application/json
+
+{
+    "nombre":"daniell",
+    "nit":"56454",
+    "correo":"asdads@gmail.com",
+    "telefono":"455asd",
+    "descripcion":"asdasd",
+    "descripcionInterpretada":"asdasdasd",
+    "latitud":"32",
+    "longitud":"562340",
+    "departamento":3,
+    "categoria": 5,
+    "accesibilidades": [2,3],
+    "mediasBorrar": ["lugares/12/medias/52173608_2229170600434563_320203873639727104_n.jpg", "lugares/12/medias/10298673_745978508753787_3157349207426332286_n.jpg"]
+}
+
+### POST NEGOCIO
+POST http://localhost:4000/lugares/negocio
+content-type: application/json
+
+{
+    "nombre":"daniel",
+    "nit":"asdadsad",
+    "correo":"casdasda@aar.com",
+    "telefono":"asdads",
+    "departamento":1,
+    "latitud":"aa",
+    "estado": null,
+    "longitud":"asd",
+    "usuario":10
+    
+}
+### GET LUGARES
+GET http://localhost:4000/lugares?usuarioId=8
+
+
+### GET ESTADO SOLICITUD PENDIENTE
+GET http://localhost:4000/lugares/estado/1
+### GET ESTADO SOLICITUD APROBADO
+GET http://localhost:4000/lugares/estado/2
+### GET ESTADO SOLICITUD DENEGADO
+GET http://localhost:4000/lugares/estado/3
+### GET ESTADO SOLICITUD OCULTO
+GET http://localhost:4000/lugares/estado/4
+
+### PUT ESTADO LUGARES  RECHAZAR
+PUT  http://localhost:4000/lugares/191/rechazar
+
+
+### PUT ESTADO LUGARES OCULTAR
+PUT  http://localhost:4000/lugares/136/ocultar
+
+
+### PUT ESTADO LUGARES HABILITAR O ACEPTAR
+PUT  http://localhost:4000/lugares/136/habilitar
+
+
+
+### create categorias
+POST http://localhost:4000/lugares/categorias
+Content-Type: application/json
+
+{
+  "nombre": "otral",
+  "nombreInt":"asd",
+  "imagen":"21"
+}
+
+### GET 
+GET http://localhost:4000/lugares/categorias?conLugares=true
+
+### DELETE 
+DELETE http://localhost:4000/lugares/7
+
+### UPDATE
+PUT http://localhost:4000/lugares/categorias
+Content-Type: application/json
+
+{
+  "title": "Hello updated"
+}
+
+### GET LUGARES CON EL DEPARTAMENTO
+GET http://localhost:4000/lugares/departamentos?conLugares=false

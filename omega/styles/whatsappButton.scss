@@ -1,0 +1,45 @@
+.whatsapp {
+  position: fixed;
+  right: 0;
+  bottom: 70px;
+  background: #25d366 0% 0% no-repeat padding-box;
+  border-radius: 40px 0px 0px 40px;
+  padding-left: 0.5em;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 1s all ease-out;
+  overflow-x: hidden;
+  transform: translateX(8em);
+  z-index: 20;
+
+  .icono {
+    padding: 0.5em 0.5em 0.8em 0.7em;
+    width: 50px;
+  }
+
+  .texto {
+    color: white;
+    letter-spacing: 2.5px;
+    font-size: 0.9em;
+    padding-right: 1em;
+    padding-left: 0.5em;
+  }
+
+  &:hover {
+    transform: translateX(0);
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .whatsapp {
+    bottom: 200px;
+    transform: translateX(8.5em);
+
+    .icono {
+      padding: 0.5em 0.5em 0.6em 0.7em;
+      width: 30px;
+    }
+  }
+}

@@ -1,0 +1,230 @@
+@font-face {
+  font-family: 'inter';
+  src: url('./fonts/Inter.ttf');
+}
+
+.inter {
+  font-family: 'inter';
+}
+.table tbody tr:nth-child(2n + 1) {
+  background: #f4f4f4;
+}
+.tableA tbody tr:nth-child(2n + 1) {
+  background: #f8f8a8;
+}
+.tableV tbody tr:nth-child(2n + 1) {
+  background: #73ff73;
+}
+.tableee tbody tr:nth-child(2n + 1) {
+  background: #b6e3ff;
+}
+.tableR tbody tr:nth-child(2n + 1) {
+  background: #ffaa98;
+}
+.table-scroll tbody,
+.table-scroll thead {
+  display: block;
+  width: 100%;
+}
+.table-scroll tbody {
+  height: 600px;
+  overflow-y: auto;
+  overflow-x: auto;
+  width: 100%;
+}
+
+.image-container span {
+  width: 100% !important;
+  height: 100% !important;
+  display: block !important;
+}
+.image-container image {
+  width: 100% !important;
+  height: auto !important;
+  object-position: center;
+  object-fit: contain !important;
+}
+
+.cover image {
+  object-fit: cover !important;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'inter';
+}
+#back {
+  background: url('../assets/lines.png');
+  background-position: left;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: auto;
+  background-color: #6dc6fd;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+.boxes {
+  width: 100%;
+  display: grid;
+  grid-gap: 2em;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 123px;
+  font-size: 2em;
+  padding: 0.5em;
+  line-height: 1;
+  background-position: 0 0, 0 0, 100% 0, 0 100%;
+  background-size: 3px 100%, 100% 3px, 3px 100%, 100% 3px;
+  background-repeat: no-repeat;
+}
+.box-c {
+  background-image: repeating-linear-gradient(
+      0deg,
+      #b3b3bf,
+      #b3b3bf 3px,
+      transparent 3px,
+      transparent 6px
+    ),
+    repeating-linear-gradient(
+      90deg,
+      #b3b3bf,
+      #b3b3bf 3px,
+      transparent 3px,
+      transparent 6px
+    ),
+    repeating-linear-gradient(
+      180deg,
+      #b3b3bf,
+      #b3b3bf 3px,
+      transparent 3px,
+      transparent 6px
+    ),
+    repeating-linear-gradient(
+      270deg,
+      #b3b3bf,
+      #b3b3bf 3px,
+      transparent 3px,
+      transparent 6px
+    );
+  background-size: 2px 100%, 100% 2px, 2px 100%, 100% 2px !important;
+  background-position: 0 0, 0 0, 100% 0, 0 100% !important;
+  background-repeat: no-repeat !important;
+}
+
+.box-dashed {
+  background-image: repeating-linear-gradient(
+      0deg,
+      #b3b3bf,
+      #b3b3bf 17px,
+      transparent 17px,
+      transparent 31px,
+      #b3b3bf 31px
+    ),
+    repeating-linear-gradient(
+      90deg,
+      #b3b3bf,
+      #b3b3bf 17px,
+      transparent 17px,
+      transparent 31px,
+      #b3b3bf 31px
+    ),
+    repeating-linear-gradient(
+      180deg,
+      #b3b3bf,
+      #b3b3bf 17px,
+      transparent 17px,
+      transparent 31px,
+      #b3b3bf 31px
+    ),
+    repeating-linear-gradient(
+      270deg,
+      #b3b3bf,
+      #b3b3bf 17px,
+      transparent 17px,
+      transparent 31px,
+      #b3b3bf 31px
+    ) !important;
+  background-size: 2px 100%, 100% 2px, 2px 100%, 100% 2px !important;
+  background-position: 0 0, 0 0, 100% 0, 0 100% !important;
+  background-repeat: no-repeat !important;
+}
+
+.orders-list:nth-last-child(2) {
+  border-end-start-radius: 8px;
+}
+
+input[type='number']::-webkit-inner-spin-button,
+input[type='number']::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type='checkbox'] {
+  accent-color: #086eae;
+  width: 25px;
+  height: 25px;
+}
+select {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background: transparent;
+  background-image: url("data:image/svg+xml;utf8,<svg fill='%23086EAE' height='24' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>");
+  background-repeat: no-repeat;
+  background-position: right 10px center;
+  padding-right: 40px;
+}
+
+.contenedor-icono {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  transform: translate(-50%, -100%) scale(1);
+  width: fit-content;
+  height: fit-content;
+}
+
+.titulo {
+  position: absolute;
+  bottom: -30px;
+  color: transparent;
+  text-align: center;
+  border-radius: 5px;
+  background: transparent;
+  padding: 0.3em 0.5em;
+  width: max-content;
+  z-index: 5;
+  font-size: medium;
+}
+
+.sin-titulo {
+  color: #086eae;
+  background: white;
+  width: max-content;
+}
+
+.icono {
+  width: 50px;
+  cursor: pointer;
+  transition: all 1s ease;
+  z-index: 10;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

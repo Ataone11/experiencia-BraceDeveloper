@@ -1,0 +1,56 @@
+{
+  "provider": "Provider",
+  "approved-providers": "Approved provider",
+  "suppliers-to-be-approved": "Suppliers to be approved",
+  "status": {
+    "approved": "Approved",
+    "active": "Active",
+    "pending": "Pending"
+  },
+  "table-providers": {
+    "headers": {
+      "name": "Name",
+      "company": "Company",
+      "email": "Email",
+      "state": "State"
+    }
+  },
+  "buttons-providers": {
+    "approved": "Approved",
+    "active": "Active",
+    "disable": "Disable",
+    "refuse": "Refuse",
+    "pending": "Pending"
+  },
+  "pop-up-disable-approved": {
+    "title": "Disable provider",
+    "button": "Disable",
+    "are-you-sure-you-want-to-disable": "Are you sure you want to disable",
+    "rest-of-the-message": "this provider"
+  },
+  "detail-approved-providers": {
+    "pending-approved": "pending approved",
+    "no-company": "No company",
+    "no-position": "No position",
+    "back-to-the-list-of-providers": "Back to the list of providers",
+    "image-not-available": "Image not available",
+    "active-subscription-until": "Active subscription until",
+    "person-in-charge": "Person in charge",
+    "section-actions": {
+      "actions": "Actions",
+      "start-a-chat": "Start a chat",
+      "disable": "Disable"
+    },
+    "sections-links": {
+      "links": "Links",
+      "help-requested": "Help requested",
+      "orders": "Orders",
+      "samples": "Samples"
+    },
+    "status-provider": {
+      "bronze-provider": "Bronze Proveedor",
+      "gold-provider": "Gold Proveedor",
+      "diamond-provider": "Diamond Proveedor"
+    }
+  }
+}

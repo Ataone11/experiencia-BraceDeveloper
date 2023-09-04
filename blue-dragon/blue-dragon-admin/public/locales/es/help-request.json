@@ -1,0 +1,13 @@
+{
+    "application-no":"Solicitud No.",
+    "name":"Nombre",
+    "date":"Fecha",
+    "status":"Estado",
+    "category":"Categoría",
+    "Reason":"Motivo",
+    "help-requests":"Solicitudes de ayuda",
+    "fixed":"Solucionada",
+    "no-fixed":"No solucionada",
+    "providers":"Proveedores",
+    "importers":"Importadores"
+}

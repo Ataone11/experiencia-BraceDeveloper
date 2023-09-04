@@ -1,0 +1,1202 @@
+[
+    {
+     "code": "AF",
+     "name": "Afghanistan",
+     "indicative": "+93"
+    },
+    {
+     "code": "AL",
+     "name": "Albania",
+     "indicative": "+355"
+    },
+    {
+     "code": "DZ",
+     "name": "Algeria",
+     "indicative": "+213"
+    },
+    {
+     "code": "AS",
+     "name": "American Samoa",
+     "indicative": "+1-684"
+    },
+    {
+     "code": "AD",
+     "name": "Andorra",
+     "indicative": "+376"
+    },
+    {
+     "code": "AO",
+     "name": "Angola",
+     "indicative": "+244"
+    },
+    {
+     "code": "AI",
+     "name": "Anguilla",
+     "indicative": "+1-264"
+    },
+    {
+     "code": "AQ",
+     "name": "Antarctica",
+     "indicative": "+672"
+    },
+    {
+     "code": "AG",
+     "name": "Antigua and Barbuda",
+     "indicative": "+1-268"
+    },
+    {
+     "code": "AR",
+     "name": "Argentina",
+     "indicative": "+54"
+    },
+    {
+     "code": "AM",
+     "name": "Armenia",
+     "indicative": "+374"
+    },
+    {
+     "code": "AW",
+     "name": "Aruba",
+     "indicative": "+297"
+    },
+    {
+     "code": "AU",
+     "name": "Australia",
+     "indicative": "+61"
+    },
+    {
+     "code": "AT",
+     "name": "Austria",
+     "indicative": "+43"
+    },
+    {
+     "code": "AZ",
+     "name": "Azerbaijan",
+     "indicative": "+994"
+    },
+    {
+     "code": "BS",
+     "name": "Bahamas",
+     "indicative": "+1-242"
+    },
+    {
+     "code": "BH",
+     "name": "Bahrain",
+     "indicative": "+973"
+    },
+    {
+     "code": "BD",
+     "name": "Bangladesh",
+     "indicative": "+880"
+    },
+    {
+     "code": "BB",
+     "name": "Barbados",
+     "indicative": "+1-246"
+    },
+    {
+     "code": "BY",
+     "name": "Belarus",
+     "indicative": "+375"
+    },
+    {
+     "code": "BE",
+     "name": "Belgium",
+     "indicative": "+32"
+    },
+    {
+     "code": "BZ",
+     "name": "Belize",
+     "indicative": "+501"
+    },
+    {
+     "code": "BJ",
+     "name": "Benin",
+     "indicative": "+229"
+    },
+    {
+     "code": "BM",
+     "name": "Bermuda",
+     "indicative": "+1-441"
+    },
+    {
+     "code": "BT",
+     "name": "Bhutan",
+     "indicative": "+975"
+    },
+    {
+     "code": "BO",
+     "name": "Bolivia",
+     "indicative": "+591"
+    },
+    {
+     "code": "BA",
+     "name": "Bosnia and Herzegovina",
+     "indicative": "+387"
+    },
+    {
+     "code": "BW",
+     "name": "Botswana",
+     "indicative": "+267"
+    },
+    {
+     "code": "BR",
+     "name": "Brazil",
+     "indicative": "+55"
+    },
+    {
+     "code": "IO",
+     "name": "British Indian Ocean Territory",
+     "indicative": "+246"
+    },
+    {
+     "code": "VG",
+     "name": "British Virgin Islands",
+     "indicative": "+1-284"
+    },
+    {
+     "code": "BN",
+     "name": "Brunei",
+     "indicative": "+673"
+    },
+    {
+     "code": "BG",
+     "name": "Bulgaria",
+     "indicative": "+359"
+    },
+    {
+     "code": "BF",
+     "name": "Burkina Faso",
+     "indicative": "+226"
+    },
+    {
+     "code": "BI",
+     "name": "Burundi",
+     "indicative": "+257"
+    },
+    {
+     "code": "KH",
+     "name": "Cambodia",
+     "indicative": "+855"
+    },
+    {
+     "code": "CM",
+     "name": "Cameroon",
+     "indicative": "+237"
+    },
+    {
+     "code": "CA",
+     "name": "Canada",
+     "indicative": "+1"
+    },
+    {
+     "code": "CV",
+     "name": "Cape Verde",
+     "indicative": "+238"
+    },
+    {
+     "code": "KY",
+     "name": "Cayman Islands",
+     "indicative": "+1-345"
+    },
+    {
+     "code": "CF",
+     "name": "Central African Republic",
+     "indicative": "+236"
+    },
+    {
+     "code": "TD",
+     "name": "Chad",
+     "indicative": "+235"
+    },
+    {
+     "code": "CL",
+     "name": "Chile",
+     "indicative": "+56"
+    },
+    {
+     "code": "CN",
+     "name": "China",
+     "indicative": "+86"
+    },
+    {
+     "code": "CX",
+     "name": "Christmas Island",
+     "indicative": "+61"
+    },
+    {
+     "code": "CC",
+     "name": "Cocos Islands",
+     "indicative": "+61"
+    },
+    {
+     "code": "CO",
+     "name": "Colombia",
+     "indicative": "+57"
+    },
+    {
+     "code": "KM",
+     "name": "Comoros",
+     "indicative": "+269"
+    },
+    {
+     "code": "CK",
+     "name": "Cook Islands",
+     "indicative": "+682"
+    },
+    {
+     "code": "CR",
+     "name": "Costa Rica",
+     "indicative": "+506"
+    },
+    {
+     "code": "HR",
+     "name": "Croatia",
+     "indicative": "+385"
+    },
+    {
+     "code": "CU",
+     "name": "Cuba",
+     "indicative": "+53"
+    },
+    {
+     "code": "CW",
+     "name": "Curacao",
+     "indicative": "+599"
+    },
+    {
+     "code": "CY",
+     "name": "Cyprus",
+     "indicative": "+357"
+    },
+    {
+     "code": "CZ",
+     "name": "Czech Republic",
+     "indicative": "+420"
+    },
+    {
+     "code": "CD",
+     "name": "Democratic Republic of the Congo",
+     "indicative": "+243"
+    },
+    {
+     "code": "DK",
+     "name": "Denmark",
+     "indicative": "+45"
+    },
+    {
+     "code": "DJ",
+     "name": "Djibouti",
+     "indicative": "+253"
+    },
+    {
+     "code": "DM",
+     "name": "Dominica",
+     "indicative": "+1-767"
+    },
+    {
+     "code": "DO",
+     "name": "Dominican Republic",
+     "indicative": "+1-809, 1-829, 1-849"
+    },
+    {
+     "code": "TL",
+     "name": "East Timor",
+     "indicative": "+670"
+    },
+    {
+     "code": "EC",
+     "name": "Ecuador",
+     "indicative": "+593"
+    },
+    {
+     "code": "EG",
+     "name": "Egypt",
+     "indicative": "+20"
+    },
+    {
+     "code": "SV",
+     "name": "El Salvador",
+     "indicative": "+503"
+    },
+    {
+     "code": "GQ",
+     "name": "Equatorial Guinea",
+     "indicative": "+240"
+    },
+    {
+     "code": "ER",
+     "name": "Eritrea",
+     "indicative": "+291"
+    },
+    {
+     "code": "EE",
+     "name": "Estonia",
+     "indicative": "+372"
+    },
+    {
+     "code": "ET",
+     "name": "Ethiopia",
+     "indicative": "+251"
+    },
+    {
+     "code": "FK",
+     "name": "Falkland Islands",
+     "indicative": "+500"
+    },
+    {
+     "code": "FO",
+     "name": "Faroe Islands",
+     "indicative": "+298"
+    },
+    {
+     "code": "FJ",
+     "name": "Fiji",
+     "indicative": "+679"
+    },
+    {
+     "code": "FI",
+     "name": "Finland",
+     "indicative": "+358"
+    },
+    {
+     "code": "FR",
+     "name": "France",
+     "indicative": "+33"
+    },
+    {
+     "code": "PF",
+     "name": "French Polynesia",
+     "indicative": "+689"
+    },
+    {
+     "code": "GA",
+     "name": "Gabon",
+     "indicative": "+241"
+    },
+    {
+     "code": "GM",
+     "name": "Gambia",
+     "indicative": "+220"
+    },
+    {
+     "code": "GE",
+     "name": "Georgia",
+     "indicative": "+995"
+    },
+    {
+     "code": "DE",
+     "name": "Germany",
+     "indicative": "+49"
+    },
+    {
+     "code": "GH",
+     "name": "Ghana",
+     "indicative": "+233"
+    },
+    {
+     "code": "GI",
+     "name": "Gibraltar",
+     "indicative": "+350"
+    },
+    {
+     "code": "GR",
+     "name": "Greece",
+     "indicative": "+30"
+    },
+    {
+     "code": "GL",
+     "name": "Greenland",
+     "indicative": "+299"
+    },
+    {
+     "code": "GD",
+     "name": "Grenada",
+     "indicative": "+1-473"
+    },
+    {
+     "code": "GU",
+     "name": "Guam",
+     "indicative": "+1-671"
+    },
+    {
+     "code": "GT",
+     "name": "Guatemala",
+     "indicative": "+502"
+    },
+    {
+     "code": "GG",
+     "name": "Guernsey",
+     "indicative": "+44-1481"
+    },
+    {
+     "code": "GN",
+     "name": "Guinea",
+     "indicative": "+224"
+    },
+    {
+     "code": "GW",
+     "name": "Guinea-Bissau",
+     "indicative": "+245"
+    },
+    {
+     "code": "GY",
+     "name": "Guyana",
+     "indicative": "+592"
+    },
+    {
+     "code": "HT",
+     "name": "Haiti",
+     "indicative": "+509"
+    },
+    {
+     "code": "HN",
+     "name": "Honduras",
+     "indicative": "+504"
+    },
+    {
+     "code": "HK",
+     "name": "Hong Kong",
+     "indicative": "+852"
+    },
+    {
+     "code": "HU",
+     "name": "Hungary",
+     "indicative": "+36"
+    },
+    {
+     "code": "IS",
+     "name": "Iceland",
+     "indicative": "+354"
+    },
+    {
+     "code": "IN",
+     "name": "India",
+     "indicative": "+91"
+    },
+    {
+     "code": "ID",
+     "name": "Indonesia",
+     "indicative": "+62"
+    },
+    {
+     "code": "IR",
+     "name": "Iran",
+     "indicative": "+98"
+    },
+    {
+     "code": "IQ",
+     "name": "Iraq",
+     "indicative": "+964"
+    },
+    {
+     "code": "IE",
+     "name": "Ireland",
+     "indicative": "+353"
+    },
+    {
+     "code": "IM",
+     "name": "Isle of Man",
+     "indicative": "+44-1624"
+    },
+    {
+     "code": "IL",
+     "name": "Israel",
+     "indicative": "+972"
+    },
+    {
+     "code": "IT",
+     "name": "Italy",
+     "indicative": "+39"
+    },
+    {
+     "code": "CI",
+     "name": "Ivory Coast",
+     "indicative": "+225"
+    },
+    {
+     "code": "JM",
+     "name": "Jamaica",
+     "indicative": "+1-876"
+    },
+    {
+     "code": "JP",
+     "name": "Japan",
+     "indicative": "+81"
+    },
+    {
+     "code": "JE",
+     "name": "Jersey",
+     "indicative": "+44-1534"
+    },
+    {
+     "code": "JO",
+     "name": "Jordan",
+     "indicative": "+962"
+    },
+    {
+     "code": "KZ",
+     "name": "Kazakhstan",
+     "indicative": "+7"
+    },
+    {
+     "code": "KE",
+     "name": "Kenya",
+     "indicative": "+254"
+    },
+    {
+     "code": "KI",
+     "name": "Kiribati",
+     "indicative": "+686"
+    },
+    {
+     "code": "XK",
+     "name": "Kosovo",
+     "indicative": "+383"
+    },
+    {
+     "code": "KW",
+     "name": "Kuwait",
+     "indicative": "+965"
+    },
+    {
+     "code": "KG",
+     "name": "Kyrgyzstan",
+     "indicative": "+996"
+    },
+    {
+     "code": "LA",
+     "name": "Laos",
+     "indicative": "+856"
+    },
+    {
+     "code": "LV",
+     "name": "Latvia",
+     "indicative": "+371"
+    },
+    {
+     "code": "LB",
+     "name": "Lebanon",
+     "indicative": "+961"
+    },
+    {
+     "code": "LS",
+     "name": "Lesotho",
+     "indicative": "+266"
+    },
+    {
+     "code": "LR",
+     "name": "Liberia",
+     "indicative": "+231"
+    },
+    {
+     "code": "LY",
+     "name": "Libya",
+     "indicative": "+218"
+    },
+    {
+     "code": "LI",
+     "name": "Liechtenstein",
+     "indicative": "+423"
+    },
+    {
+     "code": "LT",
+     "name": "Lithuania",
+     "indicative": "+370"
+    },
+    {
+     "code": "LU",
+     "name": "Luxembourg",
+     "indicative": "+352"
+    },
+    {
+     "code": "MO",
+     "name": "Macau",
+     "indicative": "+853"
+    },
+    {
+     "code": "MK",
+     "name": "Macedonia",
+     "indicative": "+389"
+    },
+    {
+     "code": "MG",
+     "name": "Madagascar",
+     "indicative": "+261"
+    },
+    {
+     "code": "MW",
+     "name": "Malawi",
+     "indicative": "+265"
+    },
+    {
+     "code": "MY",
+     "name": "Malaysia",
+     "indicative": "+60"
+    },
+    {
+     "code": "MV",
+     "name": "Maldives",
+     "indicative": "+960"
+    },
+    {
+     "code": "ML",
+     "name": "Mali",
+     "indicative": "+223"
+    },
+    {
+     "code": "MT",
+     "name": "Malta",
+     "indicative": "+356"
+    },
+    {
+     "code": "MH",
+     "name": "Marshall Islands",
+     "indicative": "+692"
+    },
+    {
+     "code": "MR",
+     "name": "Mauritania",
+     "indicative": "+222"
+    },
+    {
+     "code": "MU",
+     "name": "Mauritius",
+     "indicative": "+230"
+    },
+    {
+     "code": "YT",
+     "name": "Mayotte",
+     "indicative": "+262"
+    },
+    {
+     "code": "MX",
+     "name": "Mexico",
+     "indicative": "+52"
+    },
+    {
+     "code": "FM",
+     "name": "Micronesia",
+     "indicative": "+691"
+    },
+    {
+     "code": "MD",
+     "name": "Moldova",
+     "indicative": "+373"
+    },
+    {
+     "code": "MC",
+     "name": "Monaco",
+     "indicative": "+377"
+    },
+    {
+     "code": "MN",
+     "name": "Mongolia",
+     "indicative": "+976"
+    },
+    {
+     "code": "ME",
+     "name": "Montenegro",
+     "indicative": "+382"
+    },
+    {
+     "code": "MS",
+     "name": "Montserrat",
+     "indicative": "+1-664"
+    },
+    {
+     "code": "MA",
+     "name": "Morocco",
+     "indicative": "+212"
+    },
+    {
+     "code": "MZ",
+     "name": "Mozambique",
+     "indicative": "+258"
+    },
+    {
+     "code": "MM",
+     "name": "Myanmar",
+     "indicative": "+95"
+    },
+    {
+     "code": "NA",
+     "name": "Namibia",
+     "indicative": "+264"
+    },
+    {
+     "code": "NR",
+     "name": "Nauru",
+     "indicative": "+674"
+    },
+    {
+     "code": "NP",
+     "name": "Nepal",
+     "indicative": "+977"
+    },
+    {
+     "code": "NL",
+     "name": "Netherlands",
+     "indicative": "+31"
+    },
+    {
+     "code": "AN",
+     "name": "Netherlands Antilles",
+     "indicative": "+599"
+    },
+    {
+     "code": "NC",
+     "name": "New Caledonia",
+     "indicative": "+687"
+    },
+    {
+     "code": "NZ",
+     "name": "New Zealand",
+     "indicative": "+64"
+    },
+    {
+     "code": "NI",
+     "name": "Nicaragua",
+     "indicative": "+505"
+    },
+    {
+     "code": "NE",
+     "name": "Niger",
+     "indicative": "+227"
+    },
+    {
+     "code": "NG",
+     "name": "Nigeria",
+     "indicative": "+234"
+    },
+    {
+     "code": "NU",
+     "name": "Niue",
+     "indicative": "+683"
+    },
+    {
+     "code": "KP",
+     "name": "North Korea",
+     "indicative": "+850"
+    },
+    {
+     "code": "MP",
+     "name": "Northern Mariana Islands",
+     "indicative": "+1-670"
+    },
+    {
+     "code": "NO",
+     "name": "Norway",
+     "indicative": "+47"
+    },
+    {
+     "code": "OM",
+     "name": "Oman",
+     "indicative": "+968"
+    },
+    {
+     "code": "PK",
+     "name": "Pakistan",
+     "indicative": "+92"
+    },
+    {
+     "code": "PW",
+     "name": "Palau",
+     "indicative": "+680"
+    },
+    {
+     "code": "PS",
+     "name": "Palestine",
+     "indicative": "+970"
+    },
+    {
+     "code": "PA",
+     "name": "Panama",
+     "indicative": "+507"
+    },
+    {
+     "code": "PG",
+     "name": "Papua New Guinea",
+     "indicative": "+675"
+    },
+    {
+     "code": "PY",
+     "name": "Paraguay",
+     "indicative": "+595"
+    },
+    {
+     "code": "PE",
+     "name": "Peru",
+     "indicative": "+51"
+    },
+    {
+     "code": "PH",
+     "name": "Philippines",
+     "indicative": "+63"
+    },
+    {
+     "code": "PN",
+     "name": "Pitcairn",
+     "indicative": "+64"
+    },
+    {
+     "code": "PL",
+     "name": "Poland",
+     "indicative": "+48"
+    },
+    {
+     "code": "PT",
+     "name": "Portugal",
+     "indicative": "+351"
+    },
+    {
+     "code": "PR",
+     "name": "Puerto Rico",
+     "indicative": "+1-787, 1-939"
+    },
+    {
+     "code": "QA",
+     "name": "Qatar",
+     "indicative": "+974"
+    },
+    {
+     "code": "CG",
+     "name": "Republic of the Congo",
+     "indicative": "+242"
+    },
+    {
+     "code": "RE",
+     "name": "Reunion",
+     "indicative": "+262"
+    },
+    {
+     "code": "RO",
+     "name": "Romania",
+     "indicative": "+40"
+    },
+    {
+     "code": "RU",
+     "name": "Russia",
+     "indicative": "+7"
+    },
+    {
+     "code": "RW",
+     "name": "Rwanda",
+     "indicative": "+250"
+    },
+    {
+     "code": "BL",
+     "name": "Saint Barthelemy",
+     "indicative": "+590"
+    },
+    {
+     "code": "SH",
+     "name": "Saint Helena",
+     "indicative": "+290"
+    },
+    {
+     "code": "KN",
+     "name": "Saint Kitts and Nevis",
+     "indicative": "+1-869"
+    },
+    {
+     "code": "LC",
+     "name": "Saint Lucia",
+     "indicative": "+1-758"
+    },
+    {
+     "code": "MF",
+     "name": "Saint Martin",
+     "indicative": "+590"
+    },
+    {
+     "code": "PM",
+     "name": "Saint Pierre and Miquelon",
+     "indicative": "+508"
+    },
+    {
+     "code": "VC",
+     "name": "Saint Vincent and the Grenadines",
+     "indicative": "+1-784"
+    },
+    {
+     "code": "WS",
+     "name": "Samoa",
+     "indicative": "+685"
+    },
+    {
+     "code": "SM",
+     "name": "San Marino",
+     "indicative": "+378"
+    },
+    {
+     "code": "ST",
+     "name": "Sao Tome and Principe",
+     "indicative": "+239"
+    },
+    {
+     "code": "SA",
+     "name": "Saudi Arabia",
+     "indicative": "+966"
+    },
+    {
+     "code": "SN",
+     "name": "Senegal",
+     "indicative": "+221"
+    },
+    {
+     "code": "RS",
+     "name": "Serbia",
+     "indicative": "+381"
+    },
+    {
+     "code": "SC",
+     "name": "Seychelles",
+     "indicative": "+248"
+    },
+    {
+     "code": "SL",
+     "name": "Sierra Leone",
+     "indicative": "+232"
+    },
+    {
+     "code": "SG",
+     "name": "Singapore",
+     "indicative": "+65"
+    },
+    {
+     "code": "SX",
+     "name": "Sint Maarten",
+     "indicative": "+1-721"
+    },
+    {
+     "code": "SK",
+     "name": "Slovakia",
+     "indicative": "+421"
+    },
+    {
+     "code": "SI",
+     "name": "Slovenia",
+     "indicative": "+386"
+    },
+    {
+     "code": "SB",
+     "name": "Solomon Islands",
+     "indicative": "+677"
+    },
+    {
+     "code": "SO",
+     "name": "Somalia",
+     "indicative": "+252"
+    },
+    {
+     "code": "ZA",
+     "name": "South Africa",
+     "indicative": "+27"
+    },
+    {
+     "code": "KR",
+     "name": "South Korea",
+     "indicative": "+82"
+    },
+    {
+     "code": "SS",
+     "name": "South Sudan",
+     "indicative": "+211"
+    },
+    {
+     "code": "ES",
+     "name": "Spain",
+     "indicative": "+34"
+    },
+    {
+     "code": "LK",
+     "name": "Sri Lanka",
+     "indicative": "+94"
+    },
+    {
+     "code": "SD",
+     "name": "Sudan",
+     "indicative": "+249"
+    },
+    {
+     "code": "SR",
+     "name": "Suriname",
+     "indicative": "+597"
+    },
+    {
+     "code": "SJ",
+     "name": "Svalbard and Jan Mayen",
+     "indicative": "+47"
+    },
+    {
+     "code": "SZ",
+     "name": "Swaziland",
+     "indicative": "+268"
+    },
+    {
+     "code": "SE",
+     "name": "Sweden",
+     "indicative": "+46"
+    },
+    {
+     "code": "CH",
+     "name": "Switzerland",
+     "indicative": "+41"
+    },
+    {
+     "code": "SY",
+     "name": "Syria",
+     "indicative": "+963"
+    },
+    {
+     "code": "TW",
+     "name": "Taiwan",
+     "indicative": "+886"
+    },
+    {
+     "code": "TJ",
+     "name": "Tajikistan",
+     "indicative": "+992"
+    },
+    {
+     "code": "TZ",
+     "name": "Tanzania",
+     "indicative": "+255"
+    },
+    {
+     "code": "TH",
+     "name": "Thailand",
+     "indicative": "+66"
+    },
+    {
+     "code": "TG",
+     "name": "Togo",
+     "indicative": "+228"
+    },
+    {
+     "code": "TK",
+     "name": "Tokelau",
+     "indicative": "+690"
+    },
+    {
+     "code": "TO",
+     "name": "Tonga",
+     "indicative": "+676"
+    },
+    {
+     "code": "TT",
+     "name": "Trinidad and Tobago",
+     "indicative": "+1-868"
+    },
+    {
+     "code": "TN",
+     "name": "Tunisia",
+     "indicative": "+216"
+    },
+    {
+     "code": "TR",
+     "name": "Turkey",
+     "indicative": "+90"
+    },
+    {
+     "code": "TM",
+     "name": "Turkmenistan",
+     "indicative": "+993"
+    },
+    {
+     "code": "TC",
+     "name": "Turks and Caicos Islands",
+     "indicative": "+1-649"
+    },
+    {
+     "code": "TV",
+     "name": "Tuvalu",
+     "indicative": "+688"
+    },
+    {
+     "code": "VI",
+     "name": "U.S. Virgin Islands",
+     "indicative": "+1-340"
+    },
+    {
+     "code": "UG",
+     "name": "Uganda",
+     "indicative": "+256"
+    },
+    {
+     "code": "UA",
+     "name": "Ukraine",
+     "indicative": "+380"
+    },
+    {
+     "code": "AE",
+     "name": "United Arab Emirates",
+     "indicative": "+971"
+    },
+    {
+     "code": "GB",
+     "name": "United Kingdom",
+     "indicative": "+44"
+    },
+    {
+     "code": "US",
+     "name": "United States",
+     "indicative": "+1"
+    },
+    {
+     "code": "UY",
+     "name": "Uruguay",
+     "indicative": "+598"
+    },
+    {
+     "code": "UZ",
+     "name": "Uzbekistan",
+     "indicative": "+998"
+    },
+    {
+     "code": "VU",
+     "name": "Vanuatu",
+     "indicative": "+678"
+    },
+    {
+     "code": "VA",
+     "name": "Vatican",
+     "indicative": "+379"
+    },
+    {
+     "code": "VE",
+     "name": "Venezuela",
+     "indicative": "+58"
+    },
+    {
+     "code": "VN",
+     "name": "Vietnam",
+     "indicative": "+84"
+    },
+    {
+     "code": "WF",
+     "name": "Wallis and Futuna",
+     "indicative": "+681"
+    },
+    {
+     "code": "EH",
+     "name": "Western Sahara",
+     "indicative": "+212"
+    },
+    {
+     "code": "YE",
+     "name": "Yemen",
+     "indicative": "+967"
+    },
+    {
+     "code": "ZM",
+     "name": "Zambia",
+     "indicative": "+260"
+    },
+    {
+     "code": "ZW",
+     "name": "Zimbabwe",
+     "indicative": "+263"
+    }
+   ]

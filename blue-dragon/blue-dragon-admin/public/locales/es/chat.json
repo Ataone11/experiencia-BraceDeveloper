@@ -1,0 +1,16 @@
+{
+    "nameless":"Sin nombre",
+    "request-for-help":"Solicitud de ayuda:",
+    "select-a-conversation":"Seleccione una conversacion",
+    "conversation-closed-successfully":"Se cerro la conversación con éxito",
+    "closed-conversation":"Conversación Cerrada",
+    "write-a-message":"Escribe un mensaje",
+    "supplier":"Proveedor",
+    "importer":"Importador",
+    "administrador":"Administrador",
+    "shared-images":"Imágenes compartidas",
+    "image-could-not-be-loaded":"No se pudo cargar la imagen",
+    "no-conversations":"No hay conversaciones",
+    "open":"Abiertos",
+    "closed":"Cerrados"
+}

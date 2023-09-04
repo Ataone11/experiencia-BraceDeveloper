@@ -1,0 +1,15 @@
+{
+    "concept":"Concepto",
+    "reference-#":"# de referencia",
+    "supplier":"Proveedor",
+    "date":"Fecha",
+    "quantity":"Cantidad",
+    "payment-method":"Método de pago",
+    "orders":"Pedidos:",
+    "pay":"Pago",
+    "thru-gain":"Ganancia Thru",
+    "provider-profit":"Ganancia proveedor",
+    "gateway-commission":"Comisión pasarela",
+    "export":"Exportar"
+    
+}

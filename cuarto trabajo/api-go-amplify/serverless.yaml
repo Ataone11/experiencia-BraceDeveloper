@@ -1,0 +1,36 @@
+service: go-amplify-backend
+
+useDotenv: true
+
+plugins:
+  - serverless-offline
+
+provider:
+  name: aws
+  runtime: nodejs14.x
+  environment:
+    HOST: ${env:HOST}
+    PORT: ${env:PORT}
+    USERNAME: ${env:USERNAME}
+    PASSWORD: ${env:PASSWORD}
+    DATABASE: ${env:DATABASE}
+    AUTO_LOAD_ENTITIES: ${env:AUTO_LOAD_ENTITIES}
+    SYNCHRONIZE: ${env:SYNCHRONIZE}
+
+    REGION: ${env:REGION}
+    ACCESS_KEY: ${env:ACCESS_KEY}
+    SECRET_KEY: ${env:SECRET_KEY}
+    AWS_S3_BUCKET_NAME: ${env:AWS_S3_BUCKET_NAME}
+
+    APIFY_TOKEN: ${env:APIFY_TOKEN}
+
+functions:
+  main:
+    handler: dist/serverless.handler
+    events:
+      - http:
+          method: ANY
+          path: /
+      - http:
+          method: ANY
+          path: '{proxy+}'

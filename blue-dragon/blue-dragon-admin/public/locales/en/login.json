@@ -1,0 +1,13 @@
+{
+  "login": {
+    "title": "Login",
+    "email": "Email",
+    "password": "Password",
+    "forgottenPass": "Have you forgotten your password",
+    "button": "Sign in"
+  },
+  "errors": {
+    "NotAuthorizedException": "The email or password are incorrect.",
+    "PasswordAttemptsExceeded": "Password attempts exceeded."
+  }
+}

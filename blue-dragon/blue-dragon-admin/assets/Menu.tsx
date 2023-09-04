@@ -1,0 +1,39 @@
+export default function Menu() {
+  return (
+    <svg
+      width="27"
+      height="16"
+      viewBox="0 0 27 16"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <line
+        x1="1"
+        y1="1"
+        x2="26"
+        y2="1"
+        stroke="#DAFFFF"
+        strokeWidth="2"
+        strokeLinecap="round"
+      />
+      <line
+        x1="1"
+        y1="8"
+        x2="26"
+        y2="8"
+        stroke="#DAFFFF"
+        strokeWidth="2"
+        strokeLinecap="round"
+      />
+      <line
+        x1="1"
+        y1="15"
+        x2="26"
+        y2="15"
+        stroke="#DAFFFF"
+        strokeWidth="2"
+        strokeLinecap="round"
+      />
+    </svg>
+  );
+}

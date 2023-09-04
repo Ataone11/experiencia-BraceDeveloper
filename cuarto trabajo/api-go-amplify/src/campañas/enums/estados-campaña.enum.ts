@@ -1,0 +1,6 @@
+export enum ESTADOS_CAMPAÑA {
+    INSCRIPCIONES = 1,
+    EN_PROCESO = 2,
+    TERMINADA = 3,
+    ELIMINADA = 4
+}

@@ -1,0 +1,21 @@
+{
+  "login": {
+    "title": "Iniciar sesión",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "forgottenPass": "Has olvidado tu contraseña",
+    "button": "Ingresar"
+  },
+  "errors": {
+    "NotAuthorizedException": "El correo electrónico o la contraseña son incorrectos.",
+    "y": "Su usuario no es administrador."
+    
+
+  },
+  "toast": {
+    "NotAuthorizedException": "El correo electrónico o la contraseña son incorrectos.",
+    "y": "Su usuario no es administrador."
+    
+
+  }
+}

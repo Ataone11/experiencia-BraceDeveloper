@@ -1,0 +1,93 @@
+{
+  "provider": "Proveedor",
+  "approved-providers": "Proveedores aprobados",
+  "suppliers-to-be-approved": "Proveedores por aprobar",
+  "documentaries":"Documentales",
+  "documents-chamber-of-commerce":"Documentos Cámara de comercio",
+  "RUT-documents":"Documentos RUT",
+  "financial-statements":"Estados financieros",
+  "liability-contracts":"Contratos de responsabilidad",
+  "ISO-certificates":"Certificados ISO",
+  "product-certificate":"Certificado de producto",
+  "technical-sheets":"Fichas técnicas",
+  "commercial-references":"Referencias comerciales",
+  "bank-certifications":"Certificaciones bancarias",
+  "quantitative":"Cuantitativas",
+  "square-meter":"Metros cuadrados",
+  "number-of-direct-employees":"Número de empleados directos",
+  "years-of-existence":"Años de existencia",
+  "delivery-time":"Tiempo de entrega",
+  "geographic-location":"Ubicación geográfica",
+  "way-to-pay":"Forma de pago",
+  "market-prices":"Precios de mercado",
+  "annual-sales":"Ventas anuales",
+  "MOQ":"MOQ",
+  "maker":"Fabricante",
+  "qualitative":"Cualitativa",
+  "quality-department":"Departamento de calidad",
+  "languages-(Speaking Employees)":"Idiomas (Empleados hablanetes)",
+  "new-technologies":"Nuevas tecnologías",
+  "infrastructure Modernity":"Modernidad de infraestructura",
+  "test-laboratory":"Laboratorio de pruebas",
+  "samples-(Shipping)":"Muestras (Envío)",
+  "product-warranty":"Garantía de producto",
+  "own-brands":"Marcas propias",
+  "participation-in-fairs":"Participación en ferias",
+  "departamento-de-desarollo-e-innovación":"Departamento de desarollo e innovación",
+  "to-post-content-on-Blue-Dragon-Bridge":"para que publique contenido en Blue Dragon Bridge?",
+  "are-you-rigth":"¿Estás seguro que deseas",
+  "to prevent you from posting content on Blue Dragon Bridge":"para evitar que publique contenido en Blue Dragon Bridge?",
+  "status": {
+    "approved": "Aprobado",
+    "active": "Activo",
+    "pending": "Pendiente"
+  },
+  "table-providers": {
+    "headers": {
+      "name": "Nombre",
+      "company": "Compañia",
+      "email": "Correo",
+      "state": "Estado"
+    }
+  },
+  "buttons-providers": {
+    "approved": "Aprobados",
+    "active": "Activos",
+    "disable": "Inhabilitados",
+    "refuse": "Rechazado",
+    "pending": "Pendiente",
+    "Approve":"Aprobar",
+    "decline":"Rechazar"
+  },
+  "pop-up-disable-approved": {
+    "title": "Inhabilitar proveedor",
+    "button": "Inhabilitar",
+    "are-you-sure-you-want-to-disable": "Estas seguro de que desea inhabilitar a",
+    "rest-of-the-message": "este proveedor"
+  },
+  "detail-approved-providers": {
+    "pending-approved": "por aprobar",
+    "no-company": "Sin compañia",
+    "no-position": "Sin posición",
+    "back-to-the-list-of-providers": "Volver al listado de proveedores",
+    "image-not-available": "imagen no disponible",
+    "active-subscription-until": "Suscripción activa hasta",
+    "person-in-charge": "Persona encargada",
+    "section-actions": {
+      "actions": "Acciones",
+      "start-a-chat": "Inicia un chat",
+      "disable": "Inhabilitar"
+    },
+    "sections-links": {
+      "links": "Vinculos",
+      "help-requested": "Ayudas solicitadas",
+      "orders": "Pedidos",
+      "samples": "Muestras"
+    },
+    "status-provider": {
+      "bronze-provider": "Proveedor Bronce",
+      "gold-provider": "Proveedor Oro",
+      "diamond-provider": "Proveedor Diamante"
+    }
+  }
+}

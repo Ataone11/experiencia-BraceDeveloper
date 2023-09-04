@@ -1,0 +1,63 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+@font-face {
+  font-family: "Nunito";
+  font-weight: bold;
+  src: url(./fonts/Nunito-Bold.ttf);
+}
+
+@font-face {
+  font-family: "Nunito";
+  font-weight: 600;
+  src: url(./fonts/Nunito-SemiBold.ttf);
+}
+
+@font-face {
+  font-family: "Nunito";
+  src: url(./fonts/Nunito-Regular.ttf);
+}
+
+.nunito {
+  font-family: "Nunito";
+}
+
+.semi-bold {
+  font-family: "Nunito";
+  font-weight: 600;
+}
+
+.bold {
+  font-family: "Nunito";
+  font-weight: bold;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: "Nunito";
+}
+
+input::-ms-reveal {
+  display: none;
+}
+
+input[type='number']::-webkit-inner-spin-button,
+input[type='number']::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
